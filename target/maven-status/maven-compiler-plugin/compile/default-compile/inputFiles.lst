@@ -1,0 +1,13 @@
+/Users/admin/Downloads/oauth2demo 2 copy/src/main/java/com/example/oauth2demo/dto/ProfileUpdateRequest.java
+/Users/admin/Downloads/oauth2demo 2 copy/src/main/java/com/example/oauth2demo/config/SecurityConfig.java
+/Users/admin/Downloads/oauth2demo 2 copy/src/main/java/com/example/oauth2demo/controller/ProfileController.java
+/Users/admin/Downloads/oauth2demo 2 copy/src/main/java/com/example/oauth2demo/model/ProviderType.java
+/Users/admin/Downloads/oauth2demo 2 copy/src/main/java/com/example/oauth2demo/controller/HomeController.java
+/Users/admin/Downloads/oauth2demo 2 copy/src/main/java/com/example/oauth2demo/repository/AuthProviderRepository.java
+/Users/admin/Downloads/oauth2demo 2 copy/src/main/java/com/example/oauth2demo/model/User.java
+/Users/admin/Downloads/oauth2demo 2 copy/src/main/java/com/example/oauth2demo/service/UserService.java
+/Users/admin/Downloads/oauth2demo 2 copy/src/main/java/com/example/oauth2demo/Oauth2DemoApplication.java
+/Users/admin/Downloads/oauth2demo 2 copy/src/main/java/com/example/oauth2demo/security/OAuth2LoginSuccessHandler.java
+/Users/admin/Downloads/oauth2demo 2 copy/src/main/java/com/example/oauth2demo/config/WebConfig.java
+/Users/admin/Downloads/oauth2demo 2 copy/src/main/java/com/example/oauth2demo/model/AuthProvider.java
+/Users/admin/Downloads/oauth2demo 2 copy/src/main/java/com/example/oauth2demo/repository/UserRepository.java

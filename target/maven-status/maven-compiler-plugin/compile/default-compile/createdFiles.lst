@@ -1,0 +1,17 @@
+com/example/oauth2demo/config/WebConfig$1.class
+com/example/oauth2demo/repository/UserRepository.class
+com/example/oauth2demo/dto/ProfileUpdateRequest.class
+com/example/oauth2demo/config/WebConfig.class
+com/example/oauth2demo/config/SecurityConfig.class
+com/example/oauth2demo/controller/ProfileController.class
+com/example/oauth2demo/model/AuthProvider$AuthProviderBuilder.class
+com/example/oauth2demo/security/OAuth2LoginSuccessHandler.class
+com/example/oauth2demo/model/ProviderType.class
+com/example/oauth2demo/service/UserService.class
+com/example/oauth2demo/model/User$UserBuilder.class
+com/example/oauth2demo/controller/HomeController.class
+com/example/oauth2demo/model/AuthProvider.class
+com/example/oauth2demo/model/User.class
+com/example/oauth2demo/repository/AuthProviderRepository.class
+com/example/oauth2demo/Oauth2DemoApplication.class
+com/example/oauth2demo/model/AuthProvider$ProviderType.class
