@@ -25,8 +25,6 @@ Implements secure OAuth2 login with **Google** and **GitHub**.
 
 - OAuth2 authentication using Google and GitHub  
 - In-memory H2 database for development  
-- Simple and clean full-stack setup  
-- Easy to extend for production databases (MySQL, PostgreSQL, etc.)
 
 ---
 
@@ -108,26 +106,6 @@ spring:
           github:
             client-id: YOUR_GITHUB_CLIENT_ID
             client-secret: YOUR_GITHUB_CLIENT_SECRET
-```
-
----
-
-## 📂 Folder Structure
-
-```
-OAuth-Demo/
-│
-├── OAuth2Demo/              # Spring Boot backend
-│   ├── src/
-│   ├── pom.xml
-│   └── ...
-│
-├── frontend/                # React + Vite frontend
-│   ├── src/
-│   ├── package.json
-│   └── ...
-│
-└── README.md
 ```
 
 ---
