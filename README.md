@@ -23,8 +23,9 @@ Spring Boot application integrating OAuth2 login with Google and GitHub
 
 # How to Run
 
- Clone the repository
+ ## Clone the repository
  https://github.com/Juvie-cmd/OAuth-Demo.git
+ 
  cd OAuth-Demo
 
  
