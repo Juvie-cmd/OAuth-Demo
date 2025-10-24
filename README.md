@@ -9,3 +9,16 @@ Spring Boot application integrating OAuth2 login with Google and GitHub
 
 # Backend
 
+- Java 21
+- Spring Boot 3.3
+- Spring Security
+- Spring OAuth2 Client
+- Spring Data JPA
+- H2 Database (in-memory)
+
+# Frontend
+
+- React Js
+- Vite
+
+
