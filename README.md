@@ -21,4 +21,11 @@ Spring Boot application integrating OAuth2 login with Google and GitHub
 - React Js
 - Vite
 
+# How to Run
 
+ Clone the repository
+ https://github.com/Juvie-cmd/OAuth-Demo.git
+ cd OAuth-Demo
+
+ 
+ 
